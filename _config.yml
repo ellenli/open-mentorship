@@ -1,0 +1,12 @@
+title: Open Mentorship by Adam Whitcroft
+
+# Build settings
+sass:
+    style: compressed
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock

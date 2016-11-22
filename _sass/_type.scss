@@ -1,0 +1,30 @@
+/*
+    TYPE
+*/
+
+h1,h2,h3 {
+    font-family: $font-family-serif;
+    font-weight: bold;
+}
+
+h1,h2,h3,p {
+    line-height: 1.5em;
+    margin-bottom: 2em;
+}
+
+.font-size-xl {font-size: $font-size-xl;}
+.font-size-l {font-size: $font-size-l;}
+.font-size-m {font-size: $font-size-m;}
+.font-size-s {font-size: $font-size-s;}
+
+a {
+    color: $color-accent;
+    text-decoration: none;
+    border-bottom: 1px solid $color-accent;
+}
+
+.attention {
+    text-align: center;
+    color: $color-accent;
+    font-family: $font-family-serif;
+}
