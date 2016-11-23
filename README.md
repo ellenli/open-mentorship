@@ -2,11 +2,13 @@
 
 **#OpenMentorship** is a simple concept: I’m donating my time and knowledge, free of charge, to anyone who could benefit from it to do good in their lives. What ‘good’ means is up to them. It could mean changing their own circumstance, or pushing for change within their community.
 
+[For more information visit the site &rarr;](http://adamwhitcroft.com/open-mentorship/)
+
 ## How to book a session
 
 To book a session with me, simply find a date and time that works for the both of us in my calendar. No fees, no strings attached.
 
-[Book a 30 minute session with me &rarr;](https://calendly.com/adamwhitcroft).
+[Book a 30 minute session with me &rarr;](https://calendly.com/adamwhitcroft)
 
 *Please don’t use this time to solicit freelance or partnership work, or ask about confidential information pertaining to me or my employer.*
 
