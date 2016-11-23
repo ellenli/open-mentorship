@@ -84,12 +84,17 @@ header {
     display: table;
     border-bottom: 2px solid $color-main;
 
-    h2,p,a {
+    h2,p,ul,a {
         @extend .font-size-s;
     }
 
     h2 {
         margin-top: 0;
+    }
+
+    ul {
+        list-style: none;
+        padding: 0;
     }
 
     .block {

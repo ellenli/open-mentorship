@@ -8,7 +8,7 @@
                 To book a session with me, simply find a date and time that works for the both of us in my calendar. No fees, no strings attached.
             </p>
             <p>
-                <a href="https://calendly.com/adamwhitcroft" id="view-calendar">Book a 30 minute session with me &rarr;</a>
+                <a href="https://calendly.com/adamwhitcroft">Book a 30 minute session with me &rarr;</a>
             </p>
         </div>
     </div>
@@ -17,8 +17,15 @@
             <h2>
                 Previous sessions
             </h2>
+            <ul>
+                {% for session in site.data.sessions limit:3 %}
+                <li>
+                    <a href="{{ session.url }}">{{ session.name }}</a> &ndash; {{ session.date }}
+                </li>
+                {% endfor %}
+            </ul>
             <p>
-                Coming soon!
+                <a href="https://soundcloud.com/adamwhitcroft/sets/openmentorship">Full archive &rarr;</a>
             </p>
         </div>
     </div>
