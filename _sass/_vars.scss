@@ -3,12 +3,12 @@
 */
 
 /* Colours */
-$color-main: #ECF2DC;
-$color-background: #100A20;
-$color-accent: #FFCB22;
+$color-main: rgba(0, 0, 0, .6);
+$color-background: #fff;
+$color-accent: #5CA2B9;
 
 /* Fonts */
-$font-family-sans: -apple-system, BlinkMacSystemFont,'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+$font-family-sans: 'Lato', -apple-system, BlinkMacSystemFont,'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
 $font-family-serif: georgia, times, 'times new roman', serif;
 
 /* Font size */
