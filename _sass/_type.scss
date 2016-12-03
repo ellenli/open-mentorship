@@ -12,6 +12,16 @@ h1,h2,h3,p,ul {
     margin-bottom: 2em;
 }
 
+h2 {
+    font-weight: 900;
+    font-size: 0.8em;
+    letter-spacing: 1px;
+    line-height: 0.8em;
+    text-transform: uppercase;
+    margin: 25px 0px 25px 0px;
+    color: #666;
+    opacity: 0.5;
+}
 .font-size-xl   { font-size: $font-size-xl; }
 .font-size-l    { font-size: $font-size-l; }
 .font-size-m    { font-size: $font-size-m; }
@@ -20,7 +30,7 @@ h1,h2,h3,p,ul {
 a {
     color: $color-accent;
     text-decoration: none;
-    border-bottom: 1px solid $color-accent;
+    border-bottom: 0px solid $color-accent;
 }
 
 .attention {

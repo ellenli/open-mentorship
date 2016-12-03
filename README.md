@@ -18,7 +18,7 @@ If you'd like to offer your mentor services to others, you're awesome!
 
 Here's a suggested set of steps to get going for yourself:
 
-* Fork/check out [the original open-mentorship repo] created by @adamwhitcroft.
+* Fork/check out [the original open-mentorship repo](https://github.com/AdamWhitcroft/open-mentorship/) created by []@AdamWhitcroft](https://github.com/AdamWhitcroft/).
 * Sign up for a booking service like [Calendly](https://calendly.com/) or [YouCanBookMe](https://www.youcanbook.me/).
 * Decide how much time you would like to donate per week, and which times work best for you. I'm starting with 2 30 minute blocks on Wednesday evenings.
 * Let people know! Use **#OpenMentorship** in your social media posts to help potential mentorees find you.
